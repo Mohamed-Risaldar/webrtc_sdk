@@ -6,7 +6,7 @@ VERSION=1.0
 
 RELEASE_VERSION=${VERSION}
 
-SDK_BIN_URL=https://github.com/MohamedRisaldarTA/webrtc_android_sdk/releases/download/${VERSION}/libwebrtc.aar
+SDK_BIN_URL=https://github.com/Mohamed-Risaldar/webrtc_sdk/releases/download/${VERSION}/libwebrtc.aar
 
 BUILD_DIR=build
 mkdir -p ${BUILD_DIR}
