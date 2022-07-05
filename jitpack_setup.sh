@@ -19,5 +19,5 @@ mvn install:install-file \
     -Dfile=libwebrtc.aar \
     -Dpackaging=aar \
     -Dversion=${RELEASE_VERSION} \
-    -DgroupId=com.github.MohamedRisaldarTA \
-    -DartifactId=webrtc_android_sdk
+    -DgroupId=com.github.Mohamed-Risaldar \
+    -DartifactId=webrtc_sdk
